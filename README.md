@@ -4,7 +4,7 @@
 
 ## 何やってるんこの人
 
-- @P2P-Develop に加入していろいろプロジェクトやってるよ！
+- [P2P-Develop](https://github.com/P2P-Develop)に加入していろいろプロジェクトやってるよ！
 - 最近は[PSAC](https://github.com/peyang-Celeron/PeyangSuperbAntiCheat)の開発をよくやってるよ！
 - プログラミング以外に作曲とゲームと動画制作結構やってるよ！
 - とにかく興味持ったことは色々やるよ！
