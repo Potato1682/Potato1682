@@ -1,6 +1,5 @@
-### Hello, I'm Potato1682 - a.k.a PTT1682 [Website](https://www.potato1682.ml) :)
-
-って言ったけどバリッバリ日本語で書きまーす。はーい。
+![Potato1682's github stats](https://github-readme-stats.vercel.app/api?username=Potato1682&show_icons=true&include_all_commits=true)  
+わたし日本人！(唐突)
 
 ## 何やってるんこの人
 
@@ -13,18 +12,7 @@
 
 ### 使ってる言語とツール
 
-**言語**
-
-- C# - メイン言語
-- Java - よく使うから覚えた言語(特に[PSAC](https://github.com/peyang-Celeron/PeyangSuperbAntiCheat)とか)
-- ShellScript - WSL でよく使うのとマルチプラットフォーム対応するときによく使うため覚えた
-- HTML&CSS&JS - 余裕
-- xml(xaml) - WPF / UWP 開発で使うため覚えた
-- GNU Make(Makefile) - [dotfiles](https://github.com/Potato1682/dotfiles)のインストールに使うため覚えた
-- AWK - シェル芸用。
-- Python - 余裕
-- C / C++ - 出来ないこともない
-- node.js - 最近手を付け始めた
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Potato1682&layout=compact)
 
 **ツール**
 
