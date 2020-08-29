@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [P2P-Develop](https://github.com/P2P-Develop)
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Ruby and Ruby on Rails**
 
 - 👯 I’m looking to collaborate on [PeyangSuperbAntiCheat](https://github.com/peyang-Celeron/PeyangSuperbAntiCheat)
 
