@@ -12,7 +12,7 @@
 
 - 🤔 I’m looking for help with [Chat-Chan Project](https://github.com/P2P-Develop/Chat-Chan) and [PPM Project](https://github.com/P2P-Develop/PotatoPackageManager)
 
-- 💬 Ask me about **C#, Java, F# and Web (such as Javascript, Vue, Sass)**
+- 💬 Ask me about **C#, Java, F# and Web** (such as Javascript, Vue, Sass)
 
 - 📫 How to reach me **contact@potato1682.ml**
 
