@@ -1,14 +1,14 @@
 <h1 align="center">Hello, I'm Potato1682 👋</h1>
 <h3 align="center">A engineer from Japan who can do both front end and back end</h3>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=potato1682&style=flat-square" alt="views" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=potato1682&show_icons=true&include_all_commits=true&count_private=true" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=potato1682" height="195" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=potato1682&style=flat-square" alt="Profile Views"><img src="https://img.shields.io/badge/discord-Potato1682%239684-%237289da?style=flat-square" alt="Discord: Potato1682#9684"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=potato1682&show_icons=true&include_all_commits=true&count_private=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=potato1682" height="195"></p>
 
 - 🔭 I’m currently working on [P2P-Develop](https://github.com/P2P-Develop)
 
-- 🌱 I’m currently learning **Ruby and Ruby on Rails**
+- 🌱 I’m currently learning **Anaconda**, **Ruby** and **Ruby on Rails**
 
-- 👯 I’m looking to collaborate on [PeyangSuperbAntiCheat](https://github.com/peyang-Celeron/PeyangSuperbAntiCheat)
+- 👯 I’m looking to collaborate on [PeyangSuperbAntiCheat](https://github.com/peyang-Celeron/PeyangSuperbAntiCheat) and [TopDomainChecker](https://github.com/P2P-Develop/TopDomainChecker)
 
 - 🤔 I’m looking for help with [Chat-Chan Project](https://github.com/P2P-Develop/Chat-Chan) and [PPM Project](https://github.com/P2P-Develop/PotatoPackageManager)
 
