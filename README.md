@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on [PeyangSuperbAntiCheat](https://github.com/peyang-Celeron/PeyangSuperbAntiCheat) and [TopDomainChecker](https://github.com/P2P-Develop/TopDomainChecker)
 
-- 🤔 I’m looking for help with [Chat-Chan Project](https://github.com/P2P-Develop/Chat-Chan) and [PPM Project](https://github.com/P2P-Develop/PotatoPackageManager)
+- 🤔 I’m looking for help with [PPM Project](https://github.com/P2P-Develop/PotatoPackageManager)
 
 - 💬 Ask me about **C#, Java, F# and Web** (such as Javascript, Vue, Sass)
 
