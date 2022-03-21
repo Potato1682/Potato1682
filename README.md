@@ -3,6 +3,8 @@
 <h1 align="center">Hello there, I'm Potato1682 👋</h1>
 <h3 align="center">A full stack engineer from Japan 🗾</h3>
 
+I'm currently on break. If you have any contact, please mail to `ptt1682@gmail.com`.
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=potato1682&hide_border=true" alt="potato1682" />
   <img src="https://github-profile-trophy.vercel.app/?username=potato1682" alt="Github profile trophy">
